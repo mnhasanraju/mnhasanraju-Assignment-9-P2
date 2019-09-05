@@ -1,0 +1,139 @@
+/* Author Name: Md. Nazmul Hasan
+	Author Info: mnhasanraju@gmail.com;
+*/
+
+/*
+==== Index ====
+
+	
+
+==================
+*/
+
+/* Global CSS */
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+p{
+
+}
+
+.no-padding {
+	padding: 0px;
+}
+
+
+/* Theme CSS */
+
+
+/* Header part Start */
+
+
+.nav-cstm {
+	
+	background: #0a2345;
+}
+
+.fa.fa-bars {
+	color: #2a5ea4;
+	font-size: 30px;
+}
+
+.cstm-hed {
+	background: #0a2345;
+	font-size: 48px;
+
+}
+
+
+.hed-span {
+	color: #2a5da3;
+}
+
+.hed-cstm-prg {
+	color: #2a5da3;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+
+}
+
+.hed-cstm-bttn {
+	padding: 5px 30px;
+	border-radius: 2em;
+	background: transparent;
+	color: #ffff;
+	border-color: #153b6d;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+}
+
+.hed-cstm-bttn:hover {
+	padding: 5px 30px;
+	border-radius: 2em;
+	background: transparent;
+	color: #2a5da3;
+}
+
+
+/* Header part End */
+
+
+/* Screen Section Start */
+.screen-section {
+	background: url(../img/banner-img.png); 
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #0a2345; 
+
+}
+/* Screen Section End */
+
+
+/* View More Section Start */
+.view-more-section {
+	background-color: #0a2345;
+
+}
+
+
+.view-more-span {
+	color: #2a5da3;
+
+}
+
+.vmore-cstm-bttn {
+	padding: 5px 30px;
+	border-radius: 2em;
+	background: transparent;
+	color: #ffff;
+	border-color: #153b6d;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	
+}
+
+.vmore-cstm-bttn:hover {
+	padding: 5px 30px;
+	border-radius: 2em;
+	background: transparent;
+	color: #2a5da3;
+}
+/* View More Section End */
+
+
+
+
+
+
+/* Test Section Start */
+/* Test Section End */
+
